@@ -67,4 +67,4 @@ void check357() {
 ```
 ## Output
 <p>Output Dari Code:</p>
-<img src="https://github.com/RaidenXVR/UAS-Semester-1-Soal-2/blob/main/Screenshot%20(814).png">
+<img src="https://github.com/RaidenXVR/UAS-Semester-1-Soal-2/blob/main/Screenshot%20(815).png">
