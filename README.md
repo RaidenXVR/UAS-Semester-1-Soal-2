@@ -52,15 +52,18 @@ void check357() {
 			}		
 	}
 }	//output
-	cout<<"Data Yang Habis Dibagi 3,5, atau 7: ";
+	cout<<"Data Yang Habis Dibagi 3,5, atau 7: "<<endl;
 	for (int i=0;i<bar;i++){
-		cout<<endl;
 		for (int j=0;j<kol;j++){
-			cout<<mat[i][j]<<" ";
+			if (mat[i][j]!=0){
+				cout<<mat[i][j]<<" ";
+			}
+			else {
+				continue;
+			}
 		}
 	}	
 }
-
 ```
 ## Output
 <p>Output Dari Code:</p>
