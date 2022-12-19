@@ -6,7 +6,7 @@
 
 ## Deskripsi Umum
 Program ini adalah program untuk mencari nilai di dalam matriks yang bisa dibagi oleh 3, 5, atau 7.
-<br>Jika nilai tidak bisa dibagi 3, 5, atau 7, maka akan diganti dengan 0.
+<br>Jika nilai tidak bisa dibagi 3, 5, atau 7, maka nilai tidak akan muncul di output.
 <br>Berikut adalah code dan output dari program.
 ## Source Code
 
